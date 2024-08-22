@@ -88,6 +88,7 @@ public class DynamicIntArray {
         array = temp;
         size = nSize;
     }
+
     /////////////    Homework    ////////////////
 
     // удаляет все элементы
